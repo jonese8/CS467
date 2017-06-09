@@ -4,7 +4,7 @@
 # CS 467 Capstone Project, Spring 2017 
  
 #(Emmalee Jones) (https://github.com/jonese8/CS467)
-#(Yae Jin Oh) (https://github.com/??????)
+#(Yae Jin Oh) (https://github.com/yaejinoh/Employee-Award-Management-System)
 
 # Intro
 # The Employee Recognition Awards Application (http://employeerecognition.azurewebsites.net/) project is PHP 
